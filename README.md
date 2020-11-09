@@ -15,9 +15,10 @@ Dell5577配置：
 |网卡：|RTL8111/BCM94360cs2|
 |硬盘：|三星860Evo|
 
-|Mojave|Catalina|
-|--|--|
-|![pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|
+|Mojave|Catalina|BigSur|
+|--|--|--|
+|![Pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![Pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|![Pic3](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-2.png)|
+
 </br>
 ------------------------假把意思分割线-----------------------
 
@@ -25,6 +26,7 @@ Dell5577配置：
 * 更新了Bigsur的Opencore引导
 * 这OC在WgggSg作者分享的OC引导稍作修改而来。感谢WgggSg🙏（附上原作者地址https://github.com/wgggSg/OpenCore-For-DELL-5577）
 * 并非原创，🐶保命
+* 已添加至Releases提供下载
 
 ### 2020/3/30：
 * 因为现在的”网卡“价格略贵，不确定是否刚需的话，可以通过手机的USB共享网络，把手机当做“外置网卡”，hahahah。通过一段的使用后，再确定需要与否。
