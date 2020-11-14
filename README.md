@@ -15,9 +15,9 @@ Dell5577配置：
 |网卡：|RTL8111/BCM94360cs2|
 |硬盘：|三星860Evo|
 
-|Mojave|Catalina|
-|--|--|
-|![pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|
+|Mojave|Catalina|Bigsur|
+|--|--|--|
+|![pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|![pic2](https://gitee.com/nianaaa/Dell5577-hackintoshoc/blob/master/pic/download-2.png)|
 </br>
 ------------------------假把意思分割线-----------------------
 
