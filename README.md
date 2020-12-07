@@ -20,6 +20,7 @@ Dell5577配置：
 |![pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-2.png)|
 </br>
 ------------------------假把意思分割线-----------------------
+
 ### 2020/12/07:
 * 系统版本为最新，至少12/07能正常使用。
 * 中间更新了一些驱动
