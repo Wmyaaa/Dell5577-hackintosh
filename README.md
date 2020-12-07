@@ -20,6 +20,11 @@ Dell5577配置：
 |![pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-2.png)|
 </br>
 ------------------------假把意思分割线-----------------------
+### 2020/12/07:
+* 系统版本为最新，至少12/07能正常使用。
+* 中间更新了一些驱动
+* 关于Fn功能键、HDMI后面有时间再学习弄下，到年底了时间有点不够用苦笑😂。
+* 提交在仓库和Releases
 
 ### 2020/11/08:
 * 更新了Bigsur的Opencore引导
