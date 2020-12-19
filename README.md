@@ -36,6 +36,12 @@ Dell5577配置：
 * 因为现在的”网卡“价格略贵，不确定是否刚需的话，可以通过手机的USB共享网络，把手机当做“外置网卡”，hahahah。通过一段的使用后，再确定需要与否。
 * release/版本更新为15.3引导。
 
+> 水果手机应该可以直接共享网络给手机，但是安卓不行，我们需要安装一个驱动  
+
+* 驱动仓库地址：[https://github.com/jwise/HoRNDIS](https://github.com/jwise/HoRNDIS)
+* 目前最新版的 Release（HoRNDIS 9.2） 安装会失败，这个是可用的修改后的驱动安装包：[https://github.com/jwise/HoRNDIS/issues/102#issuecomment-541237232](https://github.com/jwise/HoRNDIS/issues/102#issuecomment-541237232)
+* 下载后解压安装即可
+
 ### 2020/3/6：
 * 如果不是大的系统更新(例如10.14跳10.15)导致hac使用过程中出现问题(例如触控板多指触控失效，声卡失效等)，请检查并及时更新lilu.kext核心驱动。
 * 此库提供的clover15.1引导最高支持正常使用到10.15.2系统。请各位"玩家"在使用时注意更新驱动提示"游戏体验"。
