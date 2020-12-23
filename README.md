@@ -7,7 +7,7 @@ Dell5577配置：
 
 |硬件类型|型号|
 |---- | ----- |
-|操作系统：|MacOS Ctalina(19B88)|
+|操作系统：|MacOS 10.12-15、11|
 |处理器：|i5-7300HQ|
 |显卡：|HD630 /GTX1050 4G(屏蔽)|
 |内存：|12G/2400Mhz/三星|
@@ -20,6 +20,23 @@ Dell5577配置：
 |![pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-2.png)|
 </br>
 ------------------------假把意思分割线-----------------------
+
+### 2020/12/23:
+|功能|情况|
+|--|--|
+|触控板|👌，多指手势使用正常，VoodooI2c驱动|
+|FN键|声音、音乐、亮度、FN键正常使用|
+|声音|麦克风、喇叭驱动正常，3.5接口耳机正常接入使用|
+|亮度|亮度调整正常|
+|HDMI|正常显示输出、声音输出|
+|RJ45网口|正常驱动|
+|USB|USB3.0正常驱动使用|
+|SD读卡器|未实现功能|
+|电源|电量状态正常|
+* 现在基本运行正常，至少日常功能使用上不会有啥问题。
+* 感谢原作者<a href="https://github.com/wgggSg">WgggSg</a>的源OC文件，并在此基础上完善部分功能。这次的Bigsur(OC)引导相较于以前的系统、Clover是系统功能完善程度最高的一次。
+* 感觉差不多完结撒花🎉🎉🎉了吧，距离2020完结不过一周了。终结不是结束，而是代表新的开始。（小声逼逼，现在才十一月初九呢）
+* OC提交在仓库和Releases
 
 ### 2020/12/07:
 * 系统版本为最新，至少12/07能正常使用。
