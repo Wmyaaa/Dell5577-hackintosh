@@ -12,7 +12,7 @@ Dell5577配置：
 |显卡：|HD630 /GTX1050 4G(屏蔽)|
 |内存：|12G/2400Mhz/三星|
 |声卡：|ALC256|
-|网卡：|RTL8111/BCM94360cs2|
+|网卡：|RTL8111/BCM94360CD(两张CS2，一个没wifi，一个没蓝牙，待出售)|
 |硬盘：|三星860Evo|
 
 |Mojave|Catalina|Bigsur|
