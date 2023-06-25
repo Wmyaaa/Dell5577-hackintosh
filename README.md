@@ -12,7 +12,7 @@ Dell5577配置：
 |显卡：|HD630 /GTX1050 4G(屏蔽)|
 |内存：|12G/2400Mhz/三星|
 |声卡：|ALC256|
-|网卡：|RTL8111/BCM94360CD(两张CS2，一个没wifi，一个没蓝牙，白菜价出售 QQ546457267)|
+|网卡：|RTL8111/BCM94360CD|
 |硬盘：|三星860Evo|
 
 |Mojave|Catalina|Bigsur|
@@ -20,6 +20,10 @@ Dell5577配置：
 |![pic1](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-1.jpg)|![pic2](https://github.com/Wmyaaa/Dell5577-hackintosh/blob/master/pic/download-2.png)|
 </br>
 ------------------------假把意思分割线-----------------------
+### 2023/06/25：
+* 目前系统12.4，中间尝试升级13，由于630核显被过于压榨，在Ventura13的动效面前更是孱弱，还有桌面设计风格不是很顺手，于是放弃升级降回12。后面更换了主力机，对5577的重心转移到新主机上，5577开始养老吃灰，或许Monterey12就是5577的终点了吧。
+* 有需要尝试13Ventura的朋友们可以在GitHib搜索5570的Ventura13的EFI，可以使用但需要自己优化。
+* The End。谢谢大家的陪伴和关注。
 
 ### 2022/09/07:
 * 当前在用系统版本为12.4，日常使用未发现有什么异常。
